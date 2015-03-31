@@ -1,0 +1,18 @@
+﻿Сборка начата 28.11.2014 10:15:33.
+     1>Проект "E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\RGB\RGB.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\RGB.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RGB.cpp
+         RGB.cpp
+     1>e:\хнуре\3 курс\ос\новая папка\2\rgb\rgb\rgb.cpp(210): warning C4101: hdc: неиспользованная локальная переменная
+     1>e:\хнуре\3 курс\ос\новая папка\2\rgb\rgb\rgb.cpp(286): warning C4101: hWnd: неиспользованная локальная переменная
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\Debug\RGB.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\Debug\RGB.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\Debug\RGB.lib" /MACHINE:X86 Debug\Info.res
+         Debug\RGB.res
+         Debug\RGB.obj
+         Debug\stdafx.obj
+         RGB.vcxproj -> E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\Debug\RGB.exe
+     1>Сборка проекта "E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\RGB\RGB.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:16.19

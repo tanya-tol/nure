@@ -1,0 +1,19 @@
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\bin\Debug\LB_3.exe.config
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\bin\Debug\LB_3.exe
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\bin\Debug\LB_3.pdb
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\obj\Debug\LB_3.csprojResolveAssemblyReference.cache
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\obj\Debug\LB_3.Form1.resources
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\obj\Debug\LB_3.Properties.Resources.resources
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\obj\Debug\LB_3.csproj.GenerateResource.Cache
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\obj\Debug\LB_3.exe
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_3\LB_3\obj\Debug\LB_3.pdb
+I:\LB_3\LB_3\bin\Debug\LB_3.exe.config
+I:\LB_3\LB_3\obj\Debug\LB_3.exe
+I:\LB_3\LB_3\obj\Debug\LB_3.pdb
+I:\LB_3\LB_3\obj\Debug\LB_3.csprojResolveAssemblyReference.cache
+I:\LB_3\LB_3\obj\Debug\LB_3.Form1.resources
+I:\LB_3\LB_3\obj\Debug\LB_3.frmRotate.resources
+I:\LB_3\LB_3\obj\Debug\LB_3.Properties.Resources.resources
+I:\LB_3\LB_3\obj\Debug\LB_3.csproj.GenerateResource.Cache
+I:\LB_3\LB_3\bin\Debug\LB_3.exe
+I:\LB_3\LB_3\bin\Debug\LB_3.pdb

@@ -1,0 +1,6 @@
+E:\ХНУРЕ\3 курс\ТМО\Laba5\LB5\LB5\bin\Debug\LB5.exe.config
+E:\ХНУРЕ\3 курс\ТМО\Laba5\LB5\LB5\bin\Debug\LB5.exe
+E:\ХНУРЕ\3 курс\ТМО\Laba5\LB5\LB5\bin\Debug\LB5.pdb
+E:\ХНУРЕ\3 курс\ТМО\Laba5\LB5\LB5\obj\Debug\LB5.exe
+E:\ХНУРЕ\3 курс\ТМО\Laba5\LB5\LB5\obj\Debug\LB5.pdb
+E:\ХНУРЕ\3 курс\ТМО\Laba5\LB5\LB5\obj\Debug\LB5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,148 @@
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csprojResolveAssemblyReference.cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csproj.GenerateResource.Cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok2.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csprojResolveAssemblyReference.cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok2.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №2\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csproj.GenerateResource.Cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csprojResolveAssemblyReference.cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok2.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №4\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csproj.GenerateResource.Cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csprojResolveAssemblyReference.cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok1.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok2.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+E:\учёба\Теорія масового обслуговування\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csproj.GenerateResource.Cache
+E:\учёба\Теорія масового обслуговування\Сдал\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Сдал\Лабораторная №6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+H:\Лаба6 ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+H:\Лаба6 ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csprojResolveAssemblyReference.cache
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok1.resources
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok2.resources
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+G:\Лабы ТМО\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csproj.GenerateResource.Cache
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csprojResolveAssemblyReference.cache
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok1.resources
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Potok2.resources
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+E:\ХНУРЕ\3 курс\ТМО\Laba6\MatStat_lb1\MatStat_lb1\obj\x86\Debug\lb1.csproj.GenerateResource.Cache

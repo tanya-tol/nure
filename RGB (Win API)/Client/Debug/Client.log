@@ -1,0 +1,15 @@
+﻿Сборка начата 27.11.2014 9:49:15.
+     1>Проект "E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\Client\Client.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Client.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Client.cpp
+         Client.cpp
+     1>e:\хнуре\3 курс\ос\новая папка\2\rgb\client\client.cpp(1): warning C4627: #include <iostream>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+     1>e:\хнуре\3 курс\ос\новая папка\2\rgb\client\client.cpp(2): warning C4627: #include <winsock2.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+     1>e:\хнуре\3 курс\ос\новая папка\2\rgb\client\client.cpp(69): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+     1>Сборка проекта "E:\ХНУРЕ\3 курс\ОС\Новая папка\2\RGB\Client\Client.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:02.58

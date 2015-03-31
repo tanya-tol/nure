@@ -1,0 +1,14 @@
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\bin\Debug\Rectangle.dll
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\bin\Debug\Rectangle.pdb
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\bin\Debug\Rectangle.xml
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.csprojResolveAssemblyReference.cache
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.Form1.resources
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.Cache
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+E:\ХНУРЕ\2 курс\П.NET\Лабы\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_4\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_4\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+E:\ХНУРЕ\2 курс\П.NET\Лабы\LB_4\Lab_4\Lab_4\obj\Debug\Lab_4.pdb

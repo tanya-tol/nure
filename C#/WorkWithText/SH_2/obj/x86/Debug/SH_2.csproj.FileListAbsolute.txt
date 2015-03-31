@@ -1,0 +1,19 @@
+G:\SH_2\SH_2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\SH_2\SH_2\obj\x86\Debug\SH_2.Form1.resources
+G:\SH_2\SH_2\obj\x86\Debug\SH_2.Properties.Resources.resources
+G:\SH_2\SH_2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\SH_2\SH_2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\SH_2\SH_2\bin\Debug\SH_2.exe
+G:\SH_2\SH_2\bin\Debug\SH_2.pdb
+G:\SH_2\SH_2\obj\x86\Debug\SH_2.exe
+G:\SH_2\SH_2\obj\x86\Debug\SH_2.pdb
+H:\SH_2\SH_2\obj\x86\Debug\SH_2.exe
+H:\SH_2\SH_2\obj\x86\Debug\SH_2.pdb
+H:\SH_2\SH_2\bin\Debug\SH_2.exe
+H:\SH_2\SH_2\bin\Debug\SH_2.pdb
+H:\SH_2\SH_2\obj\x86\Debug\SH_2.csprojResolveAssemblyReference.cache
+H:\SH_2\SH_2\obj\x86\Debug\SH_2.Form1.resources
+H:\SH_2\SH_2\obj\x86\Debug\SH_2.Properties.Resources.resources
+H:\SH_2\SH_2\obj\x86\Debug\SH_2.csproj.GenerateResource.Cache
+H:\ХНУРЭ\2 курс\П.NET\Лабы\SH_2\SH_2\obj\x86\Debug\SH_2.exe
+H:\ХНУРЭ\2 курс\П.NET\Лабы\SH_2\SH_2\obj\x86\Debug\SH_2.pdb

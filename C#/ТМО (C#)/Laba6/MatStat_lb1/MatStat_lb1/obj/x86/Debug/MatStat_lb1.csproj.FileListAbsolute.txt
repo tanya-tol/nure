@@ -1,0 +1,73 @@
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+d:\documents and settings\mr. rja\мои документы\visual studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents and Settings\mr. RJA\Мои документы\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.G_of_Fun.resources
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.G_of_Fun.resources
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+e:\учёба\4_(fourth_semester)\4_(fourth_semester)\Сохранение с системного\Visual Studio 2010\Projects\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.csproj.GenerateResource.Cache
+D:\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+D:\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.exe
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\MatStat_lb1.pdb
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\ZedGraph.xml
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\de\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\es\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\fr\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\hu\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\it\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\ja\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\pt\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\ru\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\sk\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\sv\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\tr\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.csprojResolveAssemblyReference.cache
+D:\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Form1.resources
+D:\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.G_of_Fun.resources
+D:\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.Properties.Resources.resources
+D:\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.csproj.GenerateResource.Cache
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.exe
+E:\учёба\Теорія масового обслуговування\Лабораторная №1\MatStat_lb1\MatStat_lb1\obj\x86\Debug\MatStat_lb1.pdb

@@ -1,0 +1,9 @@
+E:\Visual Studio\SH_2\SH_2\bin\Debug\SH_2.exe.config
+E:\Visual Studio\SH_2\SH_2\obj\Debug\SH_2.csprojResolveAssemblyReference.cache
+E:\Visual Studio\SH_2\SH_2\obj\Debug\SH_2.Form1.resources
+E:\Visual Studio\SH_2\SH_2\obj\Debug\SH_2.Properties.Resources.resources
+E:\Visual Studio\SH_2\SH_2\obj\Debug\SH_2.csproj.GenerateResource.Cache
+E:\Visual Studio\SH_2\SH_2\bin\Debug\SH_2.exe
+E:\Visual Studio\SH_2\SH_2\bin\Debug\SH_2.pdb
+E:\Visual Studio\SH_2\SH_2\obj\Debug\SH_2.exe
+E:\Visual Studio\SH_2\SH_2\obj\Debug\SH_2.pdb

@@ -1,0 +1,36 @@
+D:\GDrive\VSProject\Marshruty\Marshruty\bin\Debug\Marshruty.exe.config
+D:\GDrive\VSProject\Marshruty\Marshruty\bin\Debug\Marshruty.exe
+D:\GDrive\VSProject\Marshruty\Marshruty\bin\Debug\Marshruty.pdb
+D:\GDrive\VSProject\Marshruty\Marshruty\obj\Debug\Marshruty.csprojResolveAssemblyReference.cache
+D:\GDrive\VSProject\Marshruty\Marshruty\obj\Debug\Marshruty.MainForm.resources
+D:\GDrive\VSProject\Marshruty\Marshruty\obj\Debug\Marshruty.Properties.Resources.resources
+D:\GDrive\VSProject\Marshruty\Marshruty\obj\Debug\Marshruty.csproj.GenerateResource.Cache
+D:\GDrive\VSProject\Marshruty\Marshruty\obj\Debug\Marshruty.exe
+D:\GDrive\VSProject\Marshruty\Marshruty\obj\Debug\Marshruty.pdb
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\bin\Debug\Marshruty.exe.config
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.exe
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.pdb
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\bin\Debug\Marshruty.exe
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\bin\Debug\Marshruty.pdb
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.csprojResolveAssemblyReference.cache
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.MainForm.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.Properties.Resources.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.csproj.GenerateResource.Cache
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.ViewMarshrut.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.AddMarshrut.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.ViewMarshrutZupynka.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.ViewZupynki.resources
+C:\Users\Tanya\Google Диск\Таня\Marshruty\Marshruty\bin\Debug\Marshruty.exe.config
+C:\Users\Tanya\Google Диск\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.exe
+C:\Users\Tanya\Google Диск\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.pdb
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.AddAutobus.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.ViewAutobus.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.AddPersonal.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.ViewPersonal.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.LogIn.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.ListZupynki.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.AddZupynka.resources
+D:\GDrive\ХНУРЕ\2 курс\БД\Курсовой\Таня\Marshruty\Marshruty\obj\Debug\Marshruty.FindMarshroute.resources
+E:\ХНУРЕ\2 курс\Курсова_БД\Marshruty\Marshruty\bin\Debug\Marshruty.exe.config
+E:\ХНУРЕ\2 курс\Курсова_БД\Marshruty\Marshruty\obj\Debug\Marshruty.exe
+E:\ХНУРЕ\2 курс\Курсова_БД\Marshruty\Marshruty\obj\Debug\Marshruty.pdb

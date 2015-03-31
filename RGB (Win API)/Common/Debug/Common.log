@@ -1,0 +1,17 @@
+﻿Сборка начата 22.10.2014 0:01:10.
+     1>Проект "E:\ХНУРЕ\3 курс\ОС\отлично\lab\Lab8\Common\Common.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CalculatedData.cpp DrawCentered.cpp
+         DrawCentered.cpp
+     1>e:\хнуре\3 курс\ос\отлично\lab\lab8\common\drawcentered.cpp(31): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+         CalculatedData.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\ХНУРЕ\3 курс\ОС\отлично\lab\Lab8\Debug\Common.lib" /NOLOGO Debug\CalculatedData.obj
+         Debug\DrawCentered.obj
+         Common.vcxproj -> E:\ХНУРЕ\3 курс\ОС\отлично\lab\Lab8\Debug\Common.lib
+     1>Сборка проекта "E:\ХНУРЕ\3 курс\ОС\отлично\lab\Lab8\Common\Common.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:13.64

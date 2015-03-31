@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{500228F6-C55C-4C5E-955E-F8C785BE9537}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Scheta</RootNamespace>
+    <AssemblyName>Scheta</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAccount.Designer.cs">
+      <DependentUpon>AddAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTurnSheets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTurnSheets.Designer.cs">
+      <DependentUpon>AddTurnSheets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddZhurOperazij.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddZhurOperazij.Designer.cs">
+      <DependentUpon>AddZhurOperazij.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddZhurProvodok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddZhurProvodok.Designer.cs">
+      <DependentUpon>AddZhurProvodok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditZhurOperazij.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditZhurOperazij.Designer.cs">
+      <DependentUpon>EditZhurOperazij.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilteringZhProv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilteringZhProv.Designer.cs">
+      <DependentUpon>FilteringZhProv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilteringZnOp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilteringZnOp.Designer.cs">
+      <DependentUpon>FilteringZnOp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAccount.Designer.cs">
+      <DependentUpon>ViewAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProvodky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProvodky.Designer.cs">
+      <DependentUpon>ViewProvodky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewStorage.Designer.cs">
+      <DependentUpon>ViewStorage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewTurnSheets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="AddAccount.resx">
+      <DependentUpon>AddAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTurnSheets.resx">
+      <DependentUpon>AddTurnSheets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddZhurOperazij.resx">
+      <DependentUpon>AddZhurOperazij.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddZhurProvodok.resx">
+      <DependentUpon>AddZhurProvodok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditZhurOperazij.resx">
+      <DependentUpon>EditZhurOperazij.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilteringZhProv.resx">
+      <DependentUpon>FilteringZhProv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilteringZnOp.resx">
+      <DependentUpon>FilteringZnOp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ViewAccount.resx">
+      <DependentUpon>ViewAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProvodky.resx">
+      <DependentUpon>ViewProvodky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewStorage.resx">
+      <DependentUpon>ViewStorage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

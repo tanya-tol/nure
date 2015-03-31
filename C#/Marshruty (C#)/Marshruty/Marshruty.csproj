@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E774342-716A-4EED-B65C-53C4E37679CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Marshruty</RootNamespace>
+    <AssemblyName>Marshruty</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAutobus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAutobus.Designer.cs">
+      <DependentUpon>AddAutobus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMarshrut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMarshrut.Designer.cs">
+      <DependentUpon>AddMarshrut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPersonal.Designer.cs">
+      <DependentUpon>AddPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddZupynka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddZupynka.Designer.cs">
+      <DependentUpon>AddZupynka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindMarshroute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindMarshroute.Designer.cs">
+      <DependentUpon>FindMarshroute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListZupynki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListZupynki.Designer.cs">
+      <DependentUpon>ListZupynki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewAutobus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAutobus.Designer.cs">
+      <DependentUpon>ViewAutobus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMarshrut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewMarshrut.Designer.cs">
+      <DependentUpon>ViewMarshrut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMarshrutZupynka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewMarshrutZupynka.Designer.cs">
+      <DependentUpon>ViewMarshrutZupynka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPersonal.Designer.cs">
+      <DependentUpon>ViewPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewZupynki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewZupynki.Designer.cs">
+      <DependentUpon>ViewZupynki.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddAutobus.resx">
+      <DependentUpon>AddAutobus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMarshrut.resx">
+      <DependentUpon>AddMarshrut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPersonal.resx">
+      <DependentUpon>AddPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddZupynka.resx">
+      <DependentUpon>AddZupynka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindMarshroute.resx">
+      <DependentUpon>FindMarshroute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListZupynki.resx">
+      <DependentUpon>ListZupynki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ViewAutobus.resx">
+      <DependentUpon>ViewAutobus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMarshrut.resx">
+      <DependentUpon>ViewMarshrut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMarshrutZupynka.resx">
+      <DependentUpon>ViewMarshrutZupynka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPersonal.resx">
+      <DependentUpon>ViewPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewZupynki.resx">
+      <DependentUpon>ViewZupynki.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bus.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
